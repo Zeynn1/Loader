@@ -1,0 +1,6 @@
+C:\Users\justz\Desktop\Loader\Loader\antitamper.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\antitamper.obj
+C:\Users\justz\Desktop\Loader\Loader\main.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\main.obj
+C:\Users\justz\Desktop\Loader\Loader\pe_loader.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\pe_loader.obj
+C:\Users\justz\Desktop\Loader\Loader\pe_imports.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\pe_imports.obj
+C:\Users\justz\Desktop\Loader\Loader\crc32.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\crc32.obj
+C:\Users\justz\Desktop\Loader\Loader\xor.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Release\xor.obj
