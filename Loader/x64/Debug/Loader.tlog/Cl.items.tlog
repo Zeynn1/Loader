@@ -1,1 +1,6 @@
-C:\Users\justz\Desktop\Loader\Loader\main.cpp;C:\Users\justz\Desktop\Loader\Loader\x64\Debug\main.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\antitamper.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\antitamper.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\main.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\main.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\pe_loader.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\pe_loader.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\pe_imports.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\pe_imports.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\crc32.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\crc32.obj
+C:\Users\justz\Desktop\Git_project\Loader\Loader\xor.cpp;C:\Users\justz\Desktop\Git_project\Loader\Loader\x64\Debug\xor.obj

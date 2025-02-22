@@ -1,2 +1,9 @@
-﻿  main.cpp
-  Loader.vcxproj -> C:\Users\justz\Desktop\Loader\x64\Debug\Loader.exe
+﻿  antitamper.cpp
+  main.cpp
+  pe_loader.cpp
+  pe_imports.cpp
+  crc32.cpp
+  xor.cpp
+  Génération de code en cours...
+  LINK : C:\Users\justz\Desktop\Git_project\Loader\x64\Debug\Loader.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+  Loader.vcxproj -> C:\Users\justz\Desktop\Git_project\Loader\x64\Debug\Loader.exe
